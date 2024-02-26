@@ -1,0 +1,1 @@
+java -cp target/lib/*:target/fetch-multiple-collections-1.0-SNAPSHOT.jar org.example.Main
