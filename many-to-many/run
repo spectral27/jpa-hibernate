@@ -1,0 +1,1 @@
+java -cp target/lib/*:target/many-to-many-1.0-SNAPSHOT.jar org.example.Main
